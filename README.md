@@ -10,6 +10,8 @@ As shown in the table below, among our sample collected, both the average fare p
 
 ![png](analysis/PyBer_fare_summary.png)
 
+![png](analysis/table.png)
+
 ## Recommendations
 To address disparities in fares between rides, one recommendation is to charge different rates between Urban, Suburban, and Rural areas.  Another recommendation is to add an upfront fee that is contigent on the type of area.  A final recommendation is to tie rates to miles traveled so that the first mile is the most expensive, and gradually declines as vehicle miles increase.    
 
