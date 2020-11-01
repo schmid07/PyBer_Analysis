@@ -1,5 +1,5 @@
 # Ride Sharing Data by City Type -- Overview
-We've been tasked with creating a summary DataFrame of the ride-sharing data by city type and ceateing a multiple-line graph that shows the total weekly fares for each city type. In the analysis, we'll attempt to show how the data differs by city type and how those differences can be used by decision-makers at PyBer.
+We've been tasked with creating a summary DataFrame of the ride-sharing data by city type and creating a multiple-line graph that shows the total weekly fares for each city type. In the analysis, we'll attempt to show how the data differs by city type and how those differences can be used by decision-makers at PyBer.
 
 ## Resources
 - Data Source: ride_data.csv; city_data.csv
